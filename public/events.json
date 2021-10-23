@@ -1,0 +1,37 @@
+[
+    {
+        "key": "001",
+        "name": "Explore Watercolor Illustration",
+        "date": "2021-10-20",
+        "time": "10AM - 12PM",
+        "location": "25 Grafton St, Worcester"
+    },
+    {
+        "key": "002",
+        "name": "Boost Your Productivity More ",
+        "date": "2021-10-26",
+        "time": "10AM - 12PM",
+        "location": "9 Grafton St, Worcester"
+    },
+    {
+        "key": "003",
+        "name": "Educator Collaborative Series",
+        "date": "2021-11-15",
+        "time": "10AM - 12PM",
+        "location": "88 Grafton St, Worcester"
+    },
+    {
+        "key": "004",
+        "name": "Environment Conference",
+        "date": "2021-11-30",
+        "time": "10AM - 12PM",
+        "location": "88 Grafton St, Worcester"
+    },
+    {
+        "key": "005",
+        "name": "Digital Transformation Conference",
+        "date": "2021-12-15",
+        "time": "10AM - 12PM",
+        "location": "31 Grafton St, Worcester"
+    }
+]

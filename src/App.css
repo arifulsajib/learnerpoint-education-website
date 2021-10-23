@@ -1,0 +1,19 @@
+html, body, #root, .App {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.default-btn {
+  background-color: #d94c07;
+  color: white;
+  width: 150px;
+  height: 35px;
+  margin-top: 10px;
+  border-color: #b37252;
+  border-radius: 10px;
+  font-weight: bold;
+}

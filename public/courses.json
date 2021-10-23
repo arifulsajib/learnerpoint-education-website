@@ -1,0 +1,65 @@
+[   
+    {
+        "key": "001",
+        "name": "Natural Sciences & Mathematics Courses",
+        "weekdays": "Mon-Fri",
+        "time": "10AM - 12PM",
+        "instructor": "Mr. Daniel",
+        "price": 45,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/1.jpg"
+    },
+    {
+        "key": "002",
+        "name": "Basic English Speaking and Grammar",
+        "weekdays": "Mon-Fri",
+        "time": "9AM - 11AM",
+        "instructor": "Mr. Fahad",
+        "price": 35,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/2.jpg"
+    },
+    {
+        "key": "003",
+        "name": "Basic Computer and Internet",
+        "weekdays": "Mon-Fri",
+        "time": "3PM - 5PM",
+        "instructor": "Polina Kerston",
+        "price":50,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/3.jpg"
+    },
+    {
+        "key": "004",
+        "name": "Hospitality, Leisure & Sports Courses",
+        "weekdays": "Mon-Fri",
+        "time": "10AM - 12PM",
+        "instructor": "Mark Kaku",
+        "price":50,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/4.jpeg"
+    },
+    {
+        "key": "005",
+        "name": "Environmental Studies & Earth Sciences",
+        "weekdays": "Mon-Fri",
+        "time": "10AM - 12PM",
+        "instructor": "Steve S",
+        "price":30,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/5.jpg"
+    },
+    {
+        "key": "006",
+        "name": "Basic Programming and concepts",
+        "weekdays": "Mon-Fri",
+        "time": "10AM - 12PM",
+        "instructor": "Jhankar Mahbub",
+        "price":60,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/6.jpg"
+    },
+    {
+        "key": "007",
+        "name": "Drawing and calligraphy writing",
+        "weekdays": "Mon-Fri",
+        "time": "10AM - 12PM",
+        "instructor": "Miss Farjana",
+        "price":34,
+        "pic": "https://raw.githubusercontent.com/arifulsajib/pictures-for-projects/main/kids/7.jpg"
+    }
+]

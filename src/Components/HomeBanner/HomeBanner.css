@@ -1,0 +1,16 @@
+.banner-heading {
+    font-size: 50px;
+    font-weight: bolder;
+    width: 75%;
+}
+
+.banner-details {
+    font-size: 1.2rem;
+    width: 90%;
+    padding: 25px;
+    border-left: 3px solid #F37334;
+}
+
+.orange {
+    color: #F37334;
+}
