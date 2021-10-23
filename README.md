@@ -20,4 +20,4 @@ Users will able to:
 ### Links
 
 - Live Site: [LearnersPoint](https://learnerspoint-arifulsajib.netlify.app/)
-- Code: [Github](https://github.com/arifulsajib/LearnersPoint-education-webaite)
+- Code: [Github](https://github.com/arifulsajib/learnerpoint-education-website)
